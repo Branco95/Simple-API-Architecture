@@ -2,7 +2,7 @@
 
 ## Overview
 
-This module is responsible for managing the live scoreboard on our website. It handles user score updates, ensures real-time scoreboard updates, and implements security measures to prevent unauthorized score manipulation.
+This is a simple API architecture structure designed to manage the live scoreboard. This API enables real-time score updates, ensuring that user actions are reflected promptly on the scoreboard. It also includes robust security features to prevent unauthorized manipulation of scores and ensures that only valid users can update or access scores.
 
 ## API Endpoints
 
